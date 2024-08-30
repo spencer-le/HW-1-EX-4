@@ -5,7 +5,7 @@ This repo contains several text files, however each contains several spelling mi
 In your teams, you should
 * Nominate one person to fork this repository and add the rest of the group as collaborators
 * Each person will work with a file whose name is the last two digits of their "secret STAT 315 ID"
-* Create your own feature branch (under "dev" branch)
+* Create your own feature branch (under dev branch)
 * Correct the spelling errors in your file
 * Rename the file from \<\*\*.txt> to \<\*\*\*.txt>, where *** is yor "secret STAT 315 ID"
 * Stage and commit your changes, and then push to the forked repo
