@@ -11,3 +11,4 @@ In your teams, you should
 * Stage and commit your changes, and then push to the forked repo
 * Submit a pull request into development branch. Make sure your pull request goes to the forked repo, not my original
 * Once everyone's pull requests have been merged into the development branch, merge the development branch back into the main branch
+* Push the changes to your (forked) repo and invite the TA as a collaborator, so that Matthew could check your work
